@@ -6,12 +6,6 @@ This project highlights beginner-friendly frontend development concepts using HT
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **View Live Project**  
- 
-
----
 
 ## ✨ Features
 
